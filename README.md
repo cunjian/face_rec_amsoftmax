@@ -8,7 +8,7 @@ First, please compile the Caffe following the official installation guidelines. 
 
 Second, download the trained model:
 
-https://1drv.ms/u/s!AhFf7JiY9UVbgUx1BZzRXILp-MQo
+https://1drv.ms/u/s!AhFf7JiY9UVbgUwMxfXB3JVz2cEd
 
 After that, runs the demo code. 
 
