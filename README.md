@@ -6,9 +6,11 @@ We evaluated the trained model on the LFW benchmark dataset and achieved a class
 
 First, please compile the Caffe following the official installation guidelines. Specifically, you need to compile the matlab interface. 
 
-To download the trained model:
+Second, download the trained model:
 
 https://1drv.ms/u/s!AhFf7JiY9UVbgUx1BZzRXILp-MQo
+
+After that, runs the demo code. 
 
 References:
 
