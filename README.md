@@ -10,7 +10,7 @@ Second, download the trained model:
 
 https://1drv.ms/u/s!AhFf7JiY9UVbgUwMxfXB3JVz2cEd
 
-After that, runs the demo code. 
+After that, run the demo code to extract features and compute the similarity score. 
 
 References:
 
