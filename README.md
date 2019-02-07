@@ -4,7 +4,13 @@ AM-Softmax matcher was utilized to train on the recently released VGGFace2 datas
 
 We evaluated the trained model on the LFW benchmark dataset and achieved a classification accuracy of 99.35%.
 
+First, please compile the Caffe following the official installation guidelines. Specifically, you need to compile the matlab interface. 
+
+To download the trained model:
+
+https://1drv.ms/u/s!AhFf7JiY9UVbgUx1BZzRXILp-MQo
+
 References:
 
-https://github.com/happynear/AMSoftmax
-http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/
+1. https://github.com/happynear/AMSoftmax
+2. http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/
