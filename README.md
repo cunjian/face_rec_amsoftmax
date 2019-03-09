@@ -12,6 +12,16 @@ https://1drv.ms/u/s!AhFf7JiY9UVbgUwMxfXB3JVz2cEd
 
 After that, run the demo code to extract features and compute the similarity score. 
 
+## Citation
+If you use this code for your research, please cite our papers.
+```
+@inproceedings{SGGAN2019,
+  title={Matching Thermal to Visible Face Images Using a Semantic-Guided Generative Adversarial Network},
+  author={Chen, Cunjian and Ross, Arun},
+  booktitle={IEEE International Conference on Automatic Face & Gesture Recognition},
+  year={2019}
+}
+
 References:
 
 1. https://github.com/happynear/AMSoftmax
